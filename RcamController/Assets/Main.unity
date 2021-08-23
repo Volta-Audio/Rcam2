@@ -4025,8 +4025,8 @@ MonoBehaviour:
   _cameraBackground: {fileID: 1949310060}
   _occlusionManager: {fileID: 1949310064}
   _input: {fileID: 778590969}
-  _minDepth: 0.2
-  _maxDepth: 3.2
+  _minDepth: 0.01
+  _maxDepth: 25000
   _ndiResources: {fileID: 11400000, guid: 69304b86950074db7ba8caba75214004, type: 2}
   _shader: {fileID: 4800000, guid: 82192f72bca8c4631a5f37bd4fbd11bc, type: 3}
 --- !u!4 &778590967
