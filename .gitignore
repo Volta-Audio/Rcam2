@@ -20,3 +20,5 @@ Desktop.ini
 
 # Xcode
 /RcamController/Xcode
+RcamController/RCamController/Libraries
+RcamController/Builds

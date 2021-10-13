@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{155BE2F0-BEB6-E943-4D39-55A9A2C178EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/StatusView.cs">
+    <Files>
+      <File FileName="Assets/Script/StatusView.cs" Line="26" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RcamController" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e62b285c-8734-4390-92bf-65c0260aaf9b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
